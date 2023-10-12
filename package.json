@@ -1,0 +1,19 @@
+{
+  "name": "backend_petiteapp",
+  "version": "1.0.0",
+  "description": "backend de petiteAPP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mynord617/backEndpetiteAPP.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mynord617/backEndpetiteAPP/issues"
+  },
+  "homepage": "https://github.com/Mynord617/backEndpetiteAPP#readme"
+}
